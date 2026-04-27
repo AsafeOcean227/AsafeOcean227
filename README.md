@@ -1,16 +1,17 @@
-## Hi there 👋
+# Greetings 🖖
 
-<!--
-**AsafeOcean227/AsafeOcean227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **AsafeOcean227**, a api designer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Performance matters
+- 🌟 Open source enthusiast
+- 🐛 Bug hunter by night
+
+## Tech
+
+`Ruby` `Gin` `Rust` `Spring` `Elasticsearch` `Emacs`
+
+---
+
+_Stack overflow contributor._
